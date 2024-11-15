@@ -1,13 +1,12 @@
-.text{	
-	margin-top: 200px;
+.centered{
 	margin-right: 400px;
 	margin-left: 400px;
+}
+.text{	
+	margin-top: 200px;
+	
 }
 .conteiner{
 	padding: 10px 16px;
 	background: rgb(228, 214, 240);
-}
-.dorder{
-	margin-right: 400px;
-	margin-left: 400px;
 }
